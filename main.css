@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 10px;
+}
+
+.joc h1 {
+    color: rgb(105, 105, 253);
+} 
+button {
+    background-color: green;
+    width: 40vh;
+    
+}
+.ms {
+    background-color: rgb(105, 105, 253);
+}
+.wu {
+    background-color: rgb(119, 119, 241);
+}
+
+
+
+
